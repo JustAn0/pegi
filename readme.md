@@ -1,4 +1,4 @@
-#Projet Pegi
+# Projet Pegi PROUT
 Le projet PEGI est une application web permettant de classer des jeux vidéos selon la classification.
 Il permet de tester le fonctionner de **git**.
 
